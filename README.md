@@ -1,7 +1,7 @@
 # Model Supply Chain
 
-Security notes on the models an AI application depends on: downloaded model files, fine-tuning, hosted model providers, how a model works, and attacks on the model itself.
+Security notes on the models an AI application depends on: downloaded model files, fine-tuning, hosted model providers, how a model works, attacks on the model itself, and the servers that run models.
 
 These notes continue the [main course on AI application security](https://github.com/rajumandala/aisec-notes) and [Part S: AI in the SDLC](https://github.com/rajumandala/adlc). The same AI order assistant inside a broker's trading app now uses models the team downloads, fine-tunes and buys from providers.
 
-There are five notes, M1 to M5.
+There are six notes, M1 to M6.
